@@ -2,3 +2,4 @@ Rencana Belajar akuutauf :
 - Belajar Git
 - Belajar PHP
 - Belajar Java
+- Belajar JavaSCript
