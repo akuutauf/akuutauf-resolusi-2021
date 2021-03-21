@@ -5,4 +5,7 @@ Rencana Belajar akuutauf :
 - Belajar JavaSCript (belajar javascript dasar)
 - Belajar Css :
   - Bootstrap 4
-- Belajar MySql Workbench
+  - Bootstrap 5
+- Belajar MySql Workbench  
+- Belajar Xampp
+
