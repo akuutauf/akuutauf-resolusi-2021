@@ -3,4 +3,6 @@ Rencana Belajar akuutauf :
 - Belajar PHP (membuat database sederhana)
 - Belajar Java (belajar array multi dimensi)
 - Belajar JavaSCript (belajar javascript dasar)
-- Belajar Css
+- Belajar Css :
+  - Bootstrap 4
+- Belajar MySql Workbench
