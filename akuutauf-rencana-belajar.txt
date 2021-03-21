@@ -1,5 +1,5 @@
 Rencana Belajar akuutauf :
-- Belajar Git
-- Belajar PHP
-- Belajar Java
-- Belajar JavaSCript
+- Belajar Git (membuat dan management website dengan git)
+- Belajar PHP (membuat database sederhana)
+- Belajar Java (belajar array multi dimensi)
+- Belajar JavaSCript (belajar javascript dasar)
